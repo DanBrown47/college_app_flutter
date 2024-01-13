@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-annotation-experimental-1.1.0-0 C:\Users\ASWIN\.gradle\caches\transforms-3\0961d9728f7ac2e169493d3819ac27b7\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-window-1.0.0-beta04-1 C:\Users\ASWIN\.gradle\caches\transforms-3\22061b86dd6bb750cfb097dee39ba039\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.device_info.device_info_plus-core-1.6.0-2 C:\Users\ASWIN\.gradle\caches\transforms-3\47b2173aca808df2d42df6410cb709c0\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-window-java-1.0.0-beta04-3 C:\Users\ASWIN\.gradle\caches\transforms-3\5618cc6331c51a3eea7db817380fe1e0\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.device_info.device_info_plus-main-4 C:\Users\ASWIN\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-9.1.1\android\src\main\res
+dev.fluttercommunity.plus.device_info.device_info_plus-release-5 C:\Users\ASWIN\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-9.1.1\android\src\release\res
+dev.fluttercommunity.plus.device_info.device_info_plus-pngs-6 C:\Users\ASWIN\PERSONAL\tc_college_app\build\device_info_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.device_info.device_info_plus-resValues-7 C:\Users\ASWIN\PERSONAL\tc_college_app\build\device_info_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.device_info.device_info_plus-rs-8 C:\Users\ASWIN\PERSONAL\tc_college_app\build\device_info_plus\generated\res\rs\release
+dev.fluttercommunity.plus.device_info.device_info_plus-mergeReleaseResources-9 C:\Users\ASWIN\PERSONAL\tc_college_app\build\device_info_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.device_info.device_info_plus-mergeReleaseResources-10 C:\Users\ASWIN\PERSONAL\tc_college_app\build\device_info_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.device_info.device_info_plus-merged_res-11 C:\Users\ASWIN\PERSONAL\tc_college_app\build\device_info_plus\intermediates\merged_res\release

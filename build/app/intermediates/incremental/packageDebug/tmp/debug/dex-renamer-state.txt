@@ -1,0 +1,4 @@
+#Sat Jan 13 11:09:03 IST 2024
+base.0=C\:\\Users\\ASWIN\\PERSONAL\\tc_college_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
